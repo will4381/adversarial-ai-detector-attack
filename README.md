@@ -21,7 +21,7 @@ You can load the CoLab notebook, or follow the installation guide to run locally
 - `pip install -r requirements.txt`
 
 - Be sure to set your GPT Zero API key in the `.env` file as `gptzero_api_key`, or you can remove this module and replace it with your own detector method.
-**Note:**Simply using a blank string for the API key should grant you 7 requests a day. Set it to `gptzero_api_key = ''`.
+**Note**:Simply using a blank string for the API key should grant you 7 requests a day. Set it to `gptzero_api_key = ''`.
 
 - Add your AI generated text or use the current placeholder text.
 
