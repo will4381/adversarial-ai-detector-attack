@@ -34,7 +34,7 @@ Add your AI generated text or use the current placeholder text.
 
 Reach me at will@relativecompanies.com
 
-## Citation
+## Reference
 
 ```
 @misc{zhou2024humanizing,
