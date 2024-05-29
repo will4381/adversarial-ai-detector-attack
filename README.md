@@ -30,10 +30,6 @@ Add your AI generated text or use the current placeholder text.
 - Implement a method to calculate the importance of each word in the input text using both gradient norms and perplexity changes.
 - Improve the generate_adversarial_example function to use an MLM to generate multiple candidate replacements for each important word.
 
-## Contact
-
-Reach me at will@relativecompanies.com
-
 ## Reference
 
 ```
